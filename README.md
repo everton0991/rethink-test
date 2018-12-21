@@ -6,7 +6,7 @@ Abaixo segue um resumo da estrutura de folders:
 
 ```
 src/
-  components/
+  common/
   network/
   reducers/
   scenes/
